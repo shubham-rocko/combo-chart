@@ -1,0 +1,45 @@
+{
+  "name": "combo-chart",
+  "version": "1.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitmahida92/combo-chart"
+  },
+  "author": {
+    "name": "Amit Mahida",
+    "email": "amit.mahida9292@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "combo chart",
+    "chart",
+    "line chart",
+    "bar chart",
+    "fusion chart",
+    "scatter chart",
+    "svg",
+    "angular4 chart",    
+    "angular5 chart",    
+    "angular 2",
+    "angular 4",
+    "angular 5",
+    "typescript",
+    "ng",
+    "ng4"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmahida92/combo-chart/issues"
+  },
+  "homepage": "https://github.com/amitmahida92/combo-chart",
+  "main": "combo-chart.umd.js",
+  "module": "combo-chart.js",
+  "jsnext:main": "combo-chart.js",
+  "typings": "combo-chart.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^5.0.3",
+    "zone.js": "^0.8.4",
+    "snapsvg": "^0.5.1",
+    "@types/snapsvg": "^0.4.34"
+  }
+}
